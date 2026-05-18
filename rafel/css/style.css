@@ -1,0 +1,32 @@
+.bg-backgroud {
+    background-color: #200668;
+}
+
+p {
+    color: rgb(255, 255, 255);
+}
+
+.card-galeria figcaption {
+    color: #fff !important;
+    text-align: center;
+}
+
+.img-fluid {
+    width: 500px;
+    height: 250px;
+}
+
+h2 {
+    color: #fff ;
+}
+.topo h1{
+   color: #fff !important;
+}
+
+.d-none p{
+     color: #813db9 ;
+}
+
+footer{
+    background-color: #2d1144;
+}
